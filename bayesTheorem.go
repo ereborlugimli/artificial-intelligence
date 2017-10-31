@@ -3,8 +3,6 @@
 Bayes Theorem - Golang
 
 */
-
-
 package main
 
 import (
@@ -38,8 +36,7 @@ func main() {
 			fmt.Scanf("%s", &valueCity)
 			fmt.Println("\n\n--- OutLook ---\n[Sunny]\n[Rainy]\n[Overcast]\n")
 			fmt.Scanf("%s", &valueLook)
-			total *= float32(test(dataSet, valueCity, valueLook))
-			fmt.Println("T :", total)
+			total *= (test(dataSet, valueCity, valueLook))
 			fmt.Println("Percentage :", test(dataSet, valueCity, valueLook))
 		case 2:
 			fmt.Println("--- City ---\n\n[Istanbul]\n[Ankara]\n")
