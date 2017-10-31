@@ -1,3 +1,10 @@
+/*
+
+Bayes Theorem - Golang
+
+*/
+
+
 package main
 
 import (
