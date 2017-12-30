@@ -1,7 +1,7 @@
 /*
 
 Bayes Theorem - Golang
-
+Eksik düzenlenmeli  ! 
 */
 package main
 
