@@ -1,0 +1,7 @@
+Mert,35,35,3,A
+Ayla,22,50,2,B
+Gonul,63,200,1,A
+Ayhan,59,170,1,B
+Neslihan,25,40,4,B
+Erdal,37,45,2,B
+A,35,35,2,A
