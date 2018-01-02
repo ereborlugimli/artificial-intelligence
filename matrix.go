@@ -10,7 +10,7 @@ func main() {
 	fmt.Println(x)
 	fmt.Println(y)
 	
-	x = append(x[:0][:0], x[:0][:0]...) // [42, 43, 44, 48, 49, 50, 51]
+	x = append(x[:0][:0], x[:0][:0]...) 
 	y = append(y[10:],y[10:]...)
 	
 	fmt.Println(x)
